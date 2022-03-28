@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @EdgarPozas ¡Happy New Year!, let's start coding
+- 👋 Hi, I’m @EdgarPozas let's start coding
